@@ -1,6 +1,6 @@
-#junit5-spring-boot
+# junit5-spring-boot
 
-*- Shows that running JUnit5 Tests with a package selector does not work within a Spring Boot JAR.*
+*- Demo-Project to reproduce https://github.com/junit-team/junit5/issues/1724*
 
 ### How to build and run:
 
